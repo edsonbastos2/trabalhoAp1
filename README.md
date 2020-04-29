@@ -9,4 +9,4 @@ Programação para dispositivos móveis
 Tiago Guimarães Sombra
 
 # Aplicativo
-Um dos objetivos desse trabalho é a produção de um aplicativo, no caso o aluno deverá escolher uma temática para o desenvolver seu APP
+Um dos objetivos desse trabalho é a produção de um aplicativo, no caso o aluno deverá escolher uma temática para desenvolver seu APP
